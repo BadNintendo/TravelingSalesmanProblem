@@ -11,7 +11,7 @@ A scratch-built, axis-separated Traveling Salesman Problem (TSP) solver with rea
 - Interactive zoom and manual step-through
 - Validator-ready output with timing and distance metrics
 
-## 📦 Requirements
+## 📦 Requirements only to Draw results
 
 ```bash
 pip install matplotlib
