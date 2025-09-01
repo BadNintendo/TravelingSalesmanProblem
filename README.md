@@ -1,4 +1,4 @@
-# 🧭 TSP Visualizer & Optimizer
+# 🧭 TSP Visualizer & Optimizer [TSP.py](./TSP.py)
 
 A scratch-built, axis-separated Traveling Salesman Problem (TSP) solver with real-time 2D/3D animation using Matplotlib. This implementation avoids bundled heuristics and prioritizes semantic clarity, reproducibility, and extensibility.
 
